@@ -15,18 +15,6 @@
 <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
-##
-
-<p align="left">
-<img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZqdWZ2bW0wZ2lodnlxOWZsYnppanJoazkyMjR2ZXdqbWFnY2VuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif">
-</p>
-
-
-
-
-
-
-
 
 
 
