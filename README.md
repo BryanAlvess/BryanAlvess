@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BryanAlvess&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=ef2d56&text_color=000000&bg_color=aaacaa" alt="Bryan Alves GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanAlvess&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=aaacaa" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanAlvess&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=aaacaa" />
 </div>
 
 <hr>
